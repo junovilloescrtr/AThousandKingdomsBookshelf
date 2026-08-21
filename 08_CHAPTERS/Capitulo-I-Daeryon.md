@@ -1,4 +1,4 @@
-# CAPÍTULO I - Daeryon
+# Capítulo I — Daeryon
 
 La Cumbre de las Bestias no parecía construida para hombres.
 
@@ -38,7 +38,7 @@ Las interiores no tenían ventanas. Solo un pequeño respiradero abierto en la p
 
 Las exteriores eran peores de una forma distinta.
 
-Los enanos las habían excavado directamente en la roca, cuando todavía hombres y enanos vivían en armonía. Eran grandes oquedades abiertas hacia el vacío, protegidas por puertas de madera y por poco más. Algunas conservaban camas elevadas de piedra o madera. Ninguna conservaba el calor. La nieve entraba cuando nevaba. La lluvia entraba cuando llovía. El viento entraba siempre.
+Los enanos las habían excavado directamente en la roca, cuando todavía hombres y enanos vivían en armonía. Eran grandes oquedades abiertas hacia el vacío, protegidas por puertas de madera y por poco más. Algunas conservaban camas elevadas. Ninguna conservaba el calor. La nieve entraba cuando nevaba. La lluvia entraba cuando llovía. El viento entraba siempre.
 
 Desde ellas podía verse el cielo.
 
@@ -50,7 +50,7 @@ Quien pasaba suficiente tiempo en aquellas celdas aprendía a distinguir las nub
 
 La puerta de cada celda exterior era de madera gruesa. No había barrotes que permitieran mirar libremente hacia el corredor. Solo un pequeño cuadrado practicado en la madera permitía ver el pasillo interior cuando alguien se acercaba.
 
-Desde allí, Daeryon veía muy poco.
+Desde allí veía muy poco.
 
 No necesitaba ver más.
 
@@ -80,7 +80,7 @@ El miedo enseñaba.
 
 Y el tiempo, más que ninguna otra cosa, terminaba por enseñar a los hombres a no esperar nada.
 
-Daeryon estaba sentado sobre la cama de su celda cuando comenzó a caer la tarde.
+Estaba sentado sobre la cama de su celda cuando comenzó a caer la tarde.
 
 La madera de la puerta tenía una grieta vertical que había aprendido a conocer casi tan bien como las líneas de su propia mano. La había visto allí desde el primer día que despertó en aquella celda. A veces pensaba que la grieta se había hecho más grande. Otras veces creía que era él quien había cambiado.
 
@@ -88,7 +88,7 @@ No sabía cuál de las dos cosas era cierta.
 
 El frío había empezado a entrar con más fuerza.
 
-Daeryon se frotó las manos y miró hacia la abertura exterior. Desde la cama podía ver una franja del cielo entre la roca y el borde de la puerta. La luz del día estaba desapareciendo lentamente. Las nubes habían tomado un color gris oscuro y, más lejos, donde el sol todavía alcanzaba las montañas, quedaban manchas de oro apagado.
+Se frotó las manos y miró hacia la abertura exterior. Desde la cama podía ver una franja del cielo entre la roca y el borde de la puerta. La luz del día estaba desapareciendo lentamente. Las nubes habían tomado un color gris oscuro y, más lejos, donde el sol todavía alcanzaba las montañas, quedaban manchas de oro apagado.
 
 Durante unos minutos, aquel era el único espectáculo de la Cumbre.
 
@@ -106,7 +106,7 @@ El cuadrado de madera se abrió.
 
 Un ojo miró hacia dentro.
 
-Daeryon no levantó la cabeza.
+No levantó la cabeza.
 
 El ojo desapareció.
 
@@ -120,7 +120,7 @@ Al principio fueron palabras.
 
 Palabras sin sentido que se atropellaban unas con otras. Después una súplica. Luego un nombre. Después otro. La voz se elevó hasta convertirse en un chillido que atravesó la piedra.
 
-Daeryon permaneció sentado.
+Permaneció sentado.
 
 No era la primera vez.
 
@@ -136,7 +136,7 @@ Hubo un silencio breve.
 
 Otro golpe.
 
-Alguien gritó algo que Daeryon no entendió.
+Alguien gritó algo que no entendió.
 
 Otro golpe.
 
@@ -150,7 +150,7 @@ Dos.
 
 Tres.
 
-Daeryon cerró los ojos.
+Cerró los ojos.
 
 No necesitaba mirar.
 
@@ -170,7 +170,7 @@ Hasta que, finalmente, no hubo más.
 
 El silencio que quedó detrás fue peor que los gritos.
 
-Daeryon abrió los ojos.
+Abrió los ojos.
 
 Esperó.
 
@@ -184,7 +184,7 @@ Siempre había ratas.
 
 Vivían en los huecos de la fortaleza, entre las piedras, debajo de las camas, detrás de las puertas. Habían aprendido que los hombres eran una fuente de alimento y que en la Cumbre siempre había algo que comer. Se movían con una seguridad que los presos no tenían.
 
-Una salió de entre la paja de la celda de Daeryon.
+Una salió de entre la paja de su celda.
 
 Se quedó inmóvil durante un instante.
 
@@ -198,7 +198,7 @@ Carreras.
 
 Pequeños golpes de uñas sobre la piedra.
 
-Daeryon las escuchó desaparecer hacia el lugar donde había dejado de gritar el hombre.
+Las escuchó desaparecer hacia el lugar donde había dejado de gritar el hombre.
 
 No apartó la mirada del cielo.
 
@@ -212,13 +212,13 @@ Después otro.
 
 Luego un ruido de madera.
 
-Daeryon se puso en pie.
+Se puso en pie.
 
 El pequeño cuadrado de su puerta se abrió casi al mismo tiempo.
 
 El preso de la celda frente a la suya había salido al borde de la abertura.
 
-Daeryon no podía verlo entero. Solo una parte del cuerpo, una mano agarrada al marco, una sombra contra el cielo.
+No podía verlo entero. Solo una parte del cuerpo, una mano agarrada al marco, una sombra contra el cielo.
 
 —¡No! —gritó alguien desde el interior.
 
@@ -234,7 +234,7 @@ Solo viento.
 
 Y luego nada.
 
-Daeryon cerró los ojos otra vez.
+Cerró los ojos otra vez.
 
 Las ratas seguían chillando.
 
@@ -258,21 +258,21 @@ Por el sueño.
 
 Por los cuerpos que desaparecían.
 
-Cuando llegó la última comida, Daeryon ya no podía ver el cielo. Una mano pasó el cuenco por la abertura de la puerta. La comida estaba fría. No preguntó qué era. Hacía tiempo que había dejado de hacerlo.
+Cuando llegó la última comida, ya no podía ver el cielo. Una mano pasó el cuenco por la abertura de la puerta. La comida estaba fría. No preguntó qué era. Hacía tiempo que había dejado de hacerlo.
 
 Comió despacio.
 
 No porque estuviera tranquilo, sino porque había aprendido que comer demasiado deprisa hacía que el hambre volviera antes.
 
-En algún lugar del segundo nivel, Ulric permanecía despierto.
+En algún lugar del segundo nivel, otro de los prisioneros permanecía despierto.
 
-Daeryon no podía verlo.
+No podía verlo.
 
 Pero sabía que estaba allí.
 
 Había aprendido también eso.
 
-Ulric hablaba poco. Incluso antes de la prisión había sido un hombre de pocas palabras. En la Cumbre, aquellas palabras se habían vuelto todavía más escasas. Pero cuando había que escuchar, Ulric escuchaba. Cuando alguien se acercaba demasiado, observaba. Cuando una pelea empezaba, sabía quién iba a golpear antes de que lo hiciera.
+Era un hombre de pocas palabras. Incluso antes de la prisión había sido así. En la Cumbre, aquellas palabras se habían vuelto todavía más escasas. Pero cuando había que escuchar, escuchaba. Cuando alguien se acercaba demasiado, observaba. Cuando una pelea empezaba, sabía quién iba a golpear antes de que lo hiciera.
 
 Brandon era diferente.
 
@@ -286,7 +286,7 @@ A veces con otros presos.
 
 A veces con el aire.
 
-Daeryon llevaba mucho tiempo sin responderle.
+Llevaba mucho tiempo sin responderle.
 
 No recordaba exactamente cuánto.
 
@@ -294,7 +294,7 @@ Al principio habían hablado más.
 
 Después menos.
 
-Después Daeryon había dejado de hacerlo.
+Después había dejado de hacerlo.
 
 Brandon, sin embargo, no había dejado de intentarlo.
 
@@ -302,7 +302,7 @@ Aquella noche volvió a hacerlo.
 
 —¿Sigues despierto?
 
-Daeryon levantó lentamente la cabeza.
+Levantó lentamente la cabeza.
 
 La voz llegaba desde la celda de enfrente.
 
@@ -316,7 +316,7 @@ Silencio.
 
 —No hace falta que digas nada. Ya sé que estás ahí.
 
-Daeryon miró hacia la puerta.
+Miró hacia la puerta.
 
 La noche había cubierto por completo el exterior. Solo quedaba una pequeña claridad en el cielo, una franja gris entre las montañas.
 
@@ -330,7 +330,7 @@ Brandon soltó una pequeña risa.
 
 —Siempre ha tenido esa mirada.
 
-Daeryon permaneció inmóvil.
+Permaneció inmóvil.
 
 —¿Te acuerdas de cuando llegamos?
 
@@ -346,7 +346,7 @@ Su voz había perdido parte de la ligereza.
 
 —Pero sigo aquí.
 
-Daeryon bajó la mirada.
+Bajó la mirada.
 
 —Eso tiene que significar algo, ¿no?
 
@@ -358,7 +358,7 @@ Brandon apoyó la espalda contra la pared.
 
 —Prometí que estaría vivo cuando mis amigos me necesitaran.
 
-Daeryon cerró los ojos.
+Cerró los ojos.
 
 —No sé si alguna vez volveremos a verlos —dijo Brandon—. No sé si ellos siquiera saben dónde estamos. No sé si siguen vivos. No sé nada.
 
@@ -370,7 +370,7 @@ Durante un rato solo se escuchó el viento.
 
 —Y tú deberías hacerlo también.
 
-Daeryon no respondió.
+No respondió.
 
 —Sé que no quieres hablar. Está bien. Puedes seguir sin hablar. Puedes odiarme por seguir molestándote. Puedes mandarme al demonio si quieres. Pero no voy a dejar de hacerlo.
 
@@ -378,13 +378,13 @@ Brandon volvió a reír suavemente.
 
 —Alguien tiene que recordar que existe algo fuera de estas paredes.
 
-Daeryon abrió los ojos.
+Abrió los ojos.
 
 La última claridad había desaparecido.
 
 —Mañana será otro día —dijo Brandon.
 
-Daeryon miró hacia la oscuridad.
+Miró hacia la oscuridad.
 
 —Y pasado mañana también.
 
@@ -398,9 +398,9 @@ Silencio.
 
 Se acomodó sobre la paja.
 
-—Buenas noches, Daeryon.
+—Buenas noches.
 
-Daeryon permaneció inmóvil.
+Permaneció inmóvil.
 
 Brandon cerró los ojos.
 
@@ -414,7 +414,7 @@ No había escuchado aquella voz en mucho tiempo.
 
 Miró hacia la celda de enfrente.
 
-Daeryon ya no lo estaba mirando.
+Por primera vez en toda la noche, comprendió que el silencio de su compañero no significaba necesariamente que hubiera dejado de escuchar.
 
 Brandon sonrió.
 
