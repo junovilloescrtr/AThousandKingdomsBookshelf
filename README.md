@@ -23,4 +23,4 @@ Los documentos de referencia constituyen la información canónica del mundo.
 
 Los capítulos constituyen la narración de los acontecimientos.
 
-Cuando exista una contradicción...
+Cuando exista una contradicción preguntar.
